@@ -45,7 +45,7 @@ Example:
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teletipsalltestings/CountdownTimer-TeLeTiPs)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=[https://github.com/teletipsalltestings/CountdownTimer-TeLeTiPs](https://github.com/chikinpy/CountdownTimer-TeLeTiPs?organization=chikinpy&organization=chikinpy))
     
 ## Credits
 - [TeLe TiPs](https://github.com/teletips)
